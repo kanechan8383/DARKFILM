@@ -39,7 +39,7 @@ The goal is simple: one person, one window, from edit to grade to subtitles to v
 | **Subject tracking** | Locks onto the subject automatically; effects and layers follow it |
 | **Skin retouch and liquify** | Tiered skin retouching plus face-shape adjustments in one pass |
 | **Text and subtitles** | One-click subtitle generation, adjustable styling, SRT import and export |
-| **Text and speech conversion** | Script to voiceover and speech to text, with multiple built-in voices |
+| **Text and speech conversion** | Script to voiceover and speech to text, with a built-in voice cloning module |
 
 ## Screenshots
 
@@ -59,7 +59,7 @@ The Text & Subtitles panel lets you type your copy, set font, style, position an
 
 <img src="docs/screenshots/03-text-to-speech.jpg" alt="Text to speech" width="100%">
 
-Paste a script and turn it into a voiceover. Built-in voices cover regular female, powerful female, documentary male, versatile female, VLOG female, promo male and advertising female, with preview and speed control.
+Paste a script and turn it into a voiceover. A built-in voice cloning module recreates a voice from a recording, with adjustable speed and preview.
 
 ## Key features
 
@@ -95,7 +95,7 @@ Paste a script and turn it into a voiceover. Built-in voices cover regular femal
 
 ### Text and speech conversion
 
-- Text to speech: multiple voices, preview and speed control
+- Text to speech: a built-in voice cloning module recreates a voice from a recording, with preview and speed control
 - Speech to text: turn audio into an editable transcript
 - Script to voiceover: paste a script and generate the voice track
 
